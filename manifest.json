@@ -24,8 +24,77 @@
       "type": "image/x-icon"
     },
     {
-      "src": "/https://blogger.googleusercontent.com/img/a/AVvXsEjNnFEOMe9J4BJiteRMHCmkSaDZyWFZkdu54t3x8BQxNP3VH-OKKYS0oZp0DfIbXQpXQjRA5bCQgNpGo74GgNG6VCOnz1Fd_gvl6w-pR8qVFNqzCZcyU0tCHXTralRrCkxYeX5uVLGZVIejMKhKCBuqfVuCK_18Khh0RKNAjM_3RFUJBgatXIWRf34e=s631",
+      Skip to content
+ruffalo1234
+/
+web
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+web/manifest.json
+@ruffalo1234
+ruffalo1234 Update manifest.json
+ 1 contributor
+34 lines (34 sloc)  1.12 KB
+{
+  "background_color": "#ffffff",
+  "description": "All Types Of Herbals,Medicines,Honeys,Oils,e.t.c avaliable",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "UmerPakPansar",
+  "orientation": "natural",
+  "scope": "/",
+  "short_name": "Herbals",
+  "start_url": "/https://your-herbals.blogspot.com/?m=0",
+  "theme_color": "#ffffff",
+  "categories": [
+    "business",
+    "shopping",
+    "social",
+    "utilities"
+  ],
+  "screenshots": [
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjNnFEOMe9J4BJiteRMHCmkSaDZyWFZkdu54t3x8BQxNP3VH-OKKYS0oZp0DfIbXQpXQjRA5bCQgNpGo74GgNG6VCOnz1Fd_gvl6w-pR8qVFNqzCZcyU0tCHXTralRrCkxYeX5uVLGZVIejMKhKCBuqfVuCK_18Khh0RKNAjM_3RFUJBgatXIWRf34e=s631",
       "type": "image/x-icon"
+    },
+    {
+     
+    "src": "/path/to/icon.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "maskable home"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "en",
+  "iarc_rating_id": "All"
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
     }
   ],
   "shortcuts": [],
