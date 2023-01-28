@@ -25,7 +25,7 @@
       },
       { 
       "src": "/path/to/icon.png",
-      "sizes: "192x192",
+      "sizes: "512x512",
       "type": "image/x-icon",
       "purpose": "maskable home"
       }
