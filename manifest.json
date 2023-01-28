@@ -25,7 +25,8 @@
       },
       { 
       "src": "/path/to/icon.png",
-      "type": "image/x-icon"
+      "type": "image/x-icon",
+      "purpose": "maskable home"
       }
   ],
   "shortcuts": [],
