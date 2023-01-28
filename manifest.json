@@ -1,4 +1,4 @@
-{
+ {
   "background_color": "#ffffff",
   "description": "All Types Of Herbals,Medicines,Honeys,Oils,e.t.c avaliable",
   "dir": "auto",
@@ -25,7 +25,7 @@
       },
       { 
       "src": "/path/to/icon.png",
-      "sizes: "192×192",
+      "sizes: "192x192",
       "type": "image/x-icon",
       "purpose": "maskable home"
       }
