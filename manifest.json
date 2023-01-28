@@ -10,7 +10,9 @@
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [],
-  "screenshots": [],
+  "screenshots": [
+    "shopping"
+  ],
   "icons": [
     {
       "src": "https://your-herbals.blogspot.com/favicon.ico",
