@@ -24,7 +24,7 @@
       "type": "image/x-icon"
       },
       { 
-      "src": "/favicon.ico",
+      "src": "/path/to/icon.png",
       "type": "image/x-icon"
       }
   ],
