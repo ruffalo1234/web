@@ -22,11 +22,12 @@
     {
       "src": "https://github.com/ruffalo1234/image.png/blob/main/1024.png",
       "sizes": "1024x1024"
+      "purpose": "any"
     },
     {
       "src": "https://github.com/ruffalo1234/image.png/blob/main/128.png",
       "sizes": "128x128",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ],
   "shortcuts": [],
