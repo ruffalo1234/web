@@ -20,7 +20,12 @@
   ],
   "icons": [
    {
-      "src": "windows11/SmallTile.scale-100.png",
+     "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjNnFEOMe9J4BJiteRMHCmkSaDZyWFZkdu54t3x8BQxNP3VH-OKKYS0oZp0DfIbXQpXQjRA5bCQgNpGo74GgNG6VCOnz1Fd_gvl6w-pR8qVFNqzCZcyU0tCHXTralRrCkxYeX5uVLGZVIejMKhKCBuqfVuCK_18Khh0RKNAjM_3RFUJBgatXIWRf34e=s631",
+     "type": "image/png",
+     "sizes": "512x512"
+   }
+   {
+     "src": "windows11/SmallTile.scale-100.png",
      "type": "image/png",
       "sizes": "71x71"
     },
