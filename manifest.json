@@ -1,34 +1,29 @@
 {
   "background_color": "#ffffff",
-  "description": "All Types Of Herbals,Medicines,Honeys,Oils,e.t.c avaliable",
-  "dir": "auto",
+  "description": "All Types Of Herbals,Medicines,Honeys,Oils",
+  "dir": "ltr",
   "display": "standalone",
-  "name": "UmerPakPansar",
-  "orientation": "natural",
+  "name": "UMERPAKPANSAR",
+  "orientation": "any",
   "scope": "/",
-  "short_name": "Herbals",
-  "start_url": "/https://your-herbals.blogspot.com/?m=0",
+  "short_name": "HERBALS",
+  "start_url": "/home",
   "theme_color": "#ffffff",
   "categories": [
     "business",
-    "shopping",
-    "social",
-    "utilities"
+    "shopping"
   ],
-  "screenshots": [
-    "business"
-  ],
+  "screenshots": [],
   "icons": [
-   {
-     "src": "/https://github.com/ruffalo1234/image.png/blob/main/1024.png,"
-      "sizes": "1024x1024"
-   },
+    {
+      "src": "https://your-herbals.blogspot.com/favicon.ico",
+      "type": "image/x-icon"
+    },
     {
       "src": "/favicon.ico",
       "type": "image/x-icon"
-    }  
+    }
   ],
   "shortcuts": [],
-  "lang": "en",
-  "iarc_rating_id": "All"
+  "lang": "en"
 }
