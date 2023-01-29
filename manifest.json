@@ -24,8 +24,9 @@
       "sizes": "1024x1024"
     },
     {
-      "src": "windows11/SmallTile.scale-150.png",
-      "sizes": "107x107"
+      "src": "https://github.com/ruffalo1234/image.png/blob/main/128.png",
+      "sizes": "128x128",
+      "purpose": "any mask"
     }
   ],
   "shortcuts": [],
