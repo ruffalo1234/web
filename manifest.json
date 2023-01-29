@@ -26,7 +26,7 @@
     {
       "src": "https://github.com/ruffalo1234/image.png/blob/main/128.png",
       "sizes": "128x128",
-      "purpose": "any mask"
+      "purpose": "any maskable"
     }
   ],
   "shortcuts": [],
