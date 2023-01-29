@@ -21,6 +21,7 @@
   "icons": [
    {
       "src": "windows11/SmallTile.scale-100.png",
+     "type": "image/png",
       "sizes": "71x71"
     },
     {
